@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Digital Garden of Chase',
-  domain: 'https://smart-yumberry-2cf.notion.site/Next-js-Notion-Starter-Kit-Template-1e693f69ae3d48cf99dc10f3236ed299',
+  domain: 'https://chase-cui.notion.site/Notion-1e693f69ae3d48cf99dc10f3236ed299',
   author: 'Chase',
 
   // open graph metadata (optional)
